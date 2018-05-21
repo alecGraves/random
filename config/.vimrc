@@ -79,3 +79,6 @@ colorscheme zenburn
 
 " nuber the lines
 set nu
+
+" use unix style line endings (file-format)
+set ff=unix
